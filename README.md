@@ -102,4 +102,3 @@ This project is developed for educational and internship purposes..
 
 
 
-OptiCrop is a machine-learning-based agricultural project focused on using data and predictive models to support agricultural decision-making.
